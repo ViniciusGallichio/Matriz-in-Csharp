@@ -1,0 +1,32 @@
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.csprojAssemblyReference.cache
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.AssemblyInfo.cs
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.exe
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.deps.json
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.runtimeconfig.json
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.runtimeconfig.dev.json
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.dll
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\bin\Debug\net5.0\ref\Exercicio 11 Matriz.dll
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.pdb
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.dll
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\obj\Debug\net5.0\ref\Exercicio 11 Matriz.dll
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.pdb
+C:\Users\PICHAU\Desktop\Vini\Visual Studio treino\Exercicio 11 Matriz\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.genruntimeconfig.cache
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.exe
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.deps.json
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.runtimeconfig.json
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.runtimeconfig.dev.json
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.dll
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\bin\Debug\net5.0\ref\Exercicio 11 Matriz.dll
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\bin\Debug\net5.0\Exercicio 11 Matriz.pdb
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.csprojAssemblyReference.cache
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.AssemblyInfoInputs.cache
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.AssemblyInfo.cs
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.csproj.CoreCompileInputs.cache
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.dll
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\obj\Debug\net5.0\ref\Exercicio 11 Matriz.dll
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.pdb
+E:\Vini\Visual Studio C#\Matriz c#\Exercicio 11 Matriz\obj\Debug\net5.0\Exercicio 11 Matriz.genruntimeconfig.cache
